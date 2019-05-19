@@ -1,0 +1,9 @@
+body {
+	padding: 100px;
+}
+.content {
+	margin-left: calc(50% - 984px / 2);
+}
+image:hover {
+	cursor: pointer;
+}

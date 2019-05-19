@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>kueh</title>
+	<meta charset="utf-8" /> 
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css" />
+	<link rel="stylesheet" href="main.css" />
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.9.2/d3.min.js"></script>
+</head>
+<body>
+	<div class="content">
+		<h1>Puteri Salat</h1>
+		<div>
+			<svg style="width:600px;height:600px;" ></svg>
+		</div>
+	</div>
+	<script>
+		let exploded = false
+		let transition_duration = 300
+		let svg = d3.select('svg')
+		let salat_bot = svg.append('image')
+						.attr('xlink:href', 'assets/salat_2.png')
+						.attr('width', 200)
+						.attr('height', 200)
+						.attr('id', 'salat_bot')
+						.attr('x', 100)
+						.attr('y', 100)
+						.on('click', explode)
+		let salat_top = svg.append('image')
+						.attr('xlink:href', 'assets/salat_1.png')
+						.attr('width', 200)
+						.attr('height', 200)
+						.attr('id', 'salat_top')
+						.attr('x', 100)
+						.attr('y', 50)
+						.on('click', explode)
+		
+		function explode() {
+			if (!exploded) {
+				d3.select('#salat_top')
+					.transition()
+					.duration(transition_duration)
+					.attr('transform', 'translate(0,-50)')
+				d3.select('#salat_bot')
+					.transition()
+					.duration(transition_duration)
+					.attr('transform', 'translate(0,50)')
+			} else {
+				d3.select('#salat_top')
+					.transition()
+					.duration(transition_duration)
+					.attr('transform', 'translate(0,0)')
+				d3.select('#salat_bot')
+					.transition()
+					.duration(transition_duration)
+					.attr('transform', 'translate(0,0)')
+			}
+			exploded = !exploded
+		}
+
+	</script>
+</body>
+</html>
