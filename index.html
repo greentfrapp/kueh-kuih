@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>kueh</title>
+	<title>kueh-kuih</title>
 	<meta charset="utf-8" /> 
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link href="https://fonts.googleapis.com/css?family=Reenie+Beanie|Open+Sans+Condensed:300&display=swap" rel="stylesheet"> 
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css" />
 	<link rel="stylesheet" href="main.css" />
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.9.2/d3.min.js"></script>
@@ -12,20 +13,60 @@
 	<div class="content">
 		<h1>Puteri Salat</h1>
 		<div>
-			<svg style="width:600px;height:600px;" ></svg>
+			<svg style="width:800px;height:600px;" ></svg>
 		</div>
 	</div>
 	<script>
 		let exploded = false
 		let transition_duration = 300
 		let svg = d3.select('svg')
+		let salat_top_info_box = svg.append('circle')
+								.attr('id', 'salat_top_info_box')
+								.attr('r', 0)
+								.attr('cx', 450)
+								.attr('cy', 125)
+								.attr('fill', '#bdf485')
+		let salat_top_info = svg.append('text')
+								.attr('id', 'salat_top_info')
+								.attr('text-anchor', 'middle')
+								.attr('x', 450)
+								.attr('y', 125)
+								.attr('font-size', 0)
+								.attr('font-family', 'Open Sans Condensed')
+		salat_top_info.append('tspan')
+						.text('The green part')
+						.attr('x', 450)
+		salat_top_info.append('tspan')
+						.text('is soft and sweet!')
+						.attr('x', 450)
+						.attr("dy", "1em")
+		let salat_bot_info_box = svg.append('circle')
+								.attr('id', 'salat_bot_info_box')
+								.attr('r', 0)
+								.attr('cx', 450)
+								.attr('cy', 375)
+								.attr('fill', '#dadec6')
+		let salat_bot_info = svg.append('text')
+								.attr('id', 'salat_bot_info')
+								.attr('text-anchor', 'middle')
+								.attr('x', 450)
+								.attr('y', 375)
+								.attr('font-size', 0)
+								.attr('font-family', 'Open Sans Condensed')
+		salat_bot_info.append('tspan')
+						.text('The white part')
+						.attr('x', 450)
+		salat_bot_info.append('tspan')
+						.text('is made of sticky rice!')
+						.attr('x', 450)
+						.attr("dy", "1em")
 		let salat_bot = svg.append('image')
 						.attr('xlink:href', 'assets/salat_2.png')
 						.attr('width', 200)
 						.attr('height', 200)
 						.attr('id', 'salat_bot')
 						.attr('x', 100)
-						.attr('y', 100)
+						.attr('y', 200)
 						.on('click', explode)
 		let salat_top = svg.append('image')
 						.attr('xlink:href', 'assets/salat_1.png')
@@ -33,8 +74,9 @@
 						.attr('height', 200)
 						.attr('id', 'salat_top')
 						.attr('x', 100)
-						.attr('y', 50)
+						.attr('y', 150)
 						.on('click', explode)
+		
 		
 		function explode() {
 			if (!exploded) {
@@ -46,6 +88,22 @@
 					.transition()
 					.duration(transition_duration)
 					.attr('transform', 'translate(0,50)')
+				d3.select('#salat_top_info_box')
+					.transition()
+					.duration(transition_duration)
+					.attr('r', 100)
+				d3.select('#salat_top_info')
+					.transition()
+					.duration(transition_duration)
+					.attr('font-size', 36)
+				d3.select('#salat_bot_info_box')
+					.transition()
+					.duration(transition_duration)
+					.attr('r', 100)
+				d3.select('#salat_bot_info')
+					.transition()
+					.duration(transition_duration)
+					.attr('font-size', 36)
 			} else {
 				d3.select('#salat_top')
 					.transition()
@@ -55,6 +113,22 @@
 					.transition()
 					.duration(transition_duration)
 					.attr('transform', 'translate(0,0)')
+				d3.select('#salat_top_info_box')
+					.transition()
+					.duration(transition_duration)
+					.attr('r', 0)
+				d3.select('#salat_top_info')
+					.transition()
+					.duration(transition_duration)
+					.attr('font-size', 0)
+				d3.select('#salat_bot_info_box')
+					.transition()
+					.duration(transition_duration)
+					.attr('r', 0)
+				d3.select('#salat_bot_info')
+					.transition()
+					.duration(transition_duration)
+					.attr('font-size', 0)
 			}
 			exploded = !exploded
 		}
