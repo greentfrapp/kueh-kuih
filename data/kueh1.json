@@ -1,0 +1,450 @@
+[
+  {
+    "name": "Popiah",
+    "ethnic": "chinese",
+    "taste": "savoury",
+    "description": "fresh spring rolls",
+    "colour": "light brown",
+    "img": "https://i.hungrygowhere.com/cms/a7/3d/5d/fb/148281/qi-ji-popiah.jpg"
+  }, 
+  {
+    "name": "Lemper udang",
+    "ethnic": "malay",
+    "taste": "savoury",
+    "description": "spicy shrimp roll and glutinous rice ball",
+    "colour": "yellow + orange",
+    "img": "https://cdn1-production-images-kly.akamaized.net/9jORrfRmM4ggDybCJr3HuePH1VY=/680x383/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2465101/original/068146400_1543219635-resep-lemper-bakar-isi-udang.jpg"
+    },
+  {
+    "name": "Yam kueh",
+    "ethnic": "chinese",
+    "taste": "savoury",
+    "description": "yam cake",
+    "colour": "light brown",
+    "img": "https://1.bp.blogspot.com/-Z8QFRlDLsb8/WUNUNHUZ2yI/AAAAAAAA4Lc/XnzZoCAX9qg-K2Fch8pxukrFq5j_zg8igCLcBGAs/s1600/yam-cake-or-kueh-09-2.JPG"  
+  },
+  {
+    "name": "Sago melaka",
+    "ethnic": "malay",
+    "taste": "sweet",
+    "description": "sago pudding",
+    "colour": "light brown + white",
+    "img": "http://www.friedchillies.com/images/recipes/sago_2.jpg"  
+  }, 
+  {
+    "name": "Putu mayam",
+    "ethnic": "indian",
+    "taste": "sweet",
+    "description": "coconut string hoppers",
+    "colour": "white",
+    "img": "https://blog.tourism.gov.my/wp-content/uploads/2016/09/Putu-Mayam.png"
+  },
+  {
+    "name": "Kueh tako",
+    "ethnic": "peranakan",
+    "taste": "sweet",
+    "description": "two layered coconut and pandan jelly",
+    "colour": "white",
+    "img": "https://cdn-geo.dayre.me/SG3DjxYddNoC8tDqbbDC.jpg"
+  },
+  {
+    "name": "Pineapple tart",
+    "ethnic": "chinese",
+    "taste": "sweet",
+    "description": "pineapple paste tart",
+    "colour": "brown",
+    "img": "http://files.kitchenbowl.com/recipe/ASebDb43Co/step-18/it-is-important-to-have-the-pineapple-ta-thumb.jpg"
+  },
+  {
+    "name": "Kueh sugi",
+    "ethnic": "malay",
+    "taste": "sweet",
+    "description": "semolina biscuits",
+    "colour": "white + red",
+    "img": "https://www.wanista.com/wp-content/uploads/2014/06/kuih-raya-suji-asli-original.jpg"
+  },
+  {
+    "name": "Marble cake",
+    "ethnic": "malay",
+    "taste": "sweet",
+    "description": "chocolate and vanilla cake",
+    "colour": "yellow + brown",
+    "img":"http://3.bp.blogspot.com/-ZGeRad8dVw4/ThK4aFtZ-SI/AAAAAAAAReg/Az8cEnHEIQk/s1600/Picture+1584.jpg"
+  },
+  {
+    "name": "Kueh bahulu",
+    "ethnic": "malay",
+    "taste": "sweet",
+    "description": "madeleines, but the Malay kind. Springy and soft.",
+    "colour": "orange-brown",
+    "img":"https://kalorimakanan.com/wp-content/uploads/2015/02/kalori-bahulu.jpg"
+  },
+  {
+    "name": "Kueh bangkit",
+    "ethnic": "malay",
+    "taste": "sweet",
+    "description": "tapioca cookies",
+    "colour": "white",
+    "img": "https://www.malaysiaspice.biz/images/stories/kuih%20bangkit%20santan2.jpg"
+  },
+  {
+    "name": "Putu ayu",
+    "ethnic": "malay",
+    "taste": "sweet",
+    "description": "steamed sponge cake",
+    "colour": "white + green",
+    "img": "http://resepcaramemasak.info/wp-content/uploads/2018/09/putu-ayu-sederhana.jpg"
+  },  
+  {
+    "name": "Pulut inti",
+    "ethnic": "malay",
+    "taste": "sweet",
+    "description": "glutinous rice and sweet coconut topping",
+    "colour": "white + brown",
+    "img": "https://tottstore.com/recipes/wp-content/uploads/sites/2/2017/07/featured_Pulot_Inti.png"
+  },
+  {
+    "name": "Love letters",
+    "ethnic": "chinese",
+    "taste": "sweet",
+    "description": "crepe biscuit, which can be long-ish or triangular in shape",
+    "colour": "brown",
+    "img":"https://media.karousell.com/media/photos/products/2018/02/02/hari_raya_aidilfitri_halal_nyonya_peranakan_goodies_love_letters_kuih_kapit_each_bottle_at_10_1517555006_138e4855.jpg"
+  },
+  {
+    "name": "Kueh bolu",
+    "ethnic": "chinese",
+    "taste": "sweet",
+    "description": "madeleines, but the Chinese kind. Soft and springy.",
+    "colour": "orange-brown",
+    "img": "https://warisanusaha.weebly.com/uploads/4/0/6/0/40604733/s589830265960085409_p1_i2_w300.jpeg"
+  },
+  {
+    "name": "Kueh makmur",
+    "ethnic": "malay",
+    "taste": "sweet",
+    "description": "peanut cookies with powdered sugar, distinctively known for its leaf-like decorations",
+    "colour": "white + light brown + green",
+    "img":"https://assets.change.org/photos/8/vq/br/FvvqbrWaJmGxUBO-800x450-noPad.jpg?1525780227"
+  },
+  {
+    "name": "Huat kueh",
+    "ethnic": "chinese",
+    "taste": "sweet",
+    "description": "steamed muffins",
+    "colour": "orange",
+    "img":"http://1.bp.blogspot.com/-uwsKB0P_dXI/TZcTYyzAiKI/AAAAAAAAAt8/ewKRDFkicVA/s1600/DSCF5085.JPG"
+  },
+  {
+    "name": "Chye tow kuay",
+    "ethnic": "chinese",
+    "taste": "savoury",
+    "description": "chinese carrot cake, can be white or black depending on preference.",
+    "colour": "yellow + brown",
+    "img": "http://thepeakmagazine.com.sg/wp-content/uploads/2016/08/Marine-P-carrot-cake-741x556.jpg"
+  },
+  {
+    "name": "Min chiang kueh",
+    "ethnic": "chinese",
+    "taste": "savoury",
+    "description": "peanut pancake, sometimes we put corn inside too!",
+    "colour": "brown",
+    "img":"http://thepantry.boxgreen.co/wp-content/uploads/2016/09/mee-chiang-kueh-e1473995568150.jpg"
+  },
+  {
+    "name": "Mooncake",
+    "ethnic": "chinese",
+    "taste": "sweet",
+    "description": "lotus paste cake commmonly eaten during Mooncake festivals",
+    "colour": "brown",
+    "img":"http://www.rwsentosablog.com/wp-content/uploads/2014/08/pure-lotus-mooncake.jpg"
+  },
+  {
+    "name": "Png kueh",
+    "ethnic": "chinese",
+    "taste": "savoury",
+    "description": "glutinous rice dumpling",
+    "colour": "pink",
+    "img": "http://2.bp.blogspot.com/-5qRJHj-e7Wg/Tr2v3TG9qAI/AAAAAAAAFGs/Q9E2flKmiW0/s1600/031.JPG"
+  },
+  {
+    "name": "You zha kueh",
+    "ethnic": "chinese",
+    "taste": "savoury",
+    "description": "chinese fried dough also known as youtiao, sometimes eaten with Chinese congee",
+    "colour": "orange",
+    "img": "http://netsenger.com/topwok/images/youtiao-pic.jpg"
+  },
+  {
+    "name": "Kueh bingka",
+    "ethnic": "malay",
+    "taste": "sweet",
+    "description": "baked tapioca cake with a sticky texture and golden crust on the top of the kueh",
+    "colour": "yellow-orange",
+    "img":"https://d1alt1wkdk73qo.cloudfront.net/images/guide/4da2d58b1ede40d3adce55de251bcbf8/640x478_ac.jpg"
+  },
+  {
+    "name": "Kueh talam",
+    "ethnic": "malay",
+    "taste": "sweet",
+    "description": "pandan and coconut cream cake, many variations in terms of colours and what people put inside it",
+    "colour": "white + green",
+    "img": "http://1.bp.blogspot.com/-x6J1RxPBGrk/VHfy9e94WHI/AAAAAAAAQDk/ijLEGDSxlUo/s1600/IMG_7490a.JPG"
+  },
+  {
+    "name": "Kueh salat",
+    "ethnic": "malay",
+    "taste": "sweet",
+    "description": "two-layer cake with pandan pudding and blue pea flower glutinous rice. A common variation is replacing the blue with just normal glutinous rice. Also known as Puteri Salat",
+    "colour": "green + white",
+    "img":"https://cornercafe.files.wordpress.com/2013/06/kuih_salat04.jpg?w=650&h=491"
+  },
+  {
+    "name": "Kuih pie tee",
+    "ethnic": "peranakan",
+    "taste": "savoury",
+    "description": "crispy thin pastry cups filled with omelette and fresh cucumber strips",
+    "colour": "brown",
+    "img":"https://partymojo.com.sg/wp-content/uploads/2016/04/cutmypic-7.png"
+  },
+  {
+    "name": "Chwee kueh",
+    "ethnic": "chinese",
+    "taste": "savoury",
+    "description": "steamed rice cake",
+    "colour": "white + brown",
+    "img": "https://3.bp.blogspot.com/-mphWNGFP1E0/WUIJg-1muEI/AAAAAAAA3yU/1vHJKgpQZxkpBBIqMaVNebRpP3kgzY3fwCLcBGAs/s1600/DSC_0981Ef4chweekueh.jpg"
+  },
+  {
+    "name": "Rempah udang",
+    "ethnic": "peranakan",
+    "taste": "savoury",
+    "description": "glutinous rice and shrimp paste dumpling wrapped in banana leaves",
+    "colour": "white + orange",
+    "img": "https://2.bp.blogspot.com/-RcIdIJeedlc/V3732_1dRfI/AAAAAAAANts/nnUN4TEEOrYzu8rZA11sQaSRnV7C91FJQCLcB/s1600/IMG_7321.1.JPG"
+  },
+  {
+    "name": "Chai kueh",
+    "ethnic": "chinese",
+    "taste": "savoury",
+    "description": "steamed vegetable dumpling",
+    "colour": "white",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS27n6F0bsQB9BpIYVGl8p1DqLUos5_TPPT_QBRPTw670WQfCQCPQ"
+  },
+  {
+    "name": "Kueh dadar",
+    "ethnic": "peranakan",
+    "taste": "sweet",
+    "description": "long-ish rolled coconut crepes with a distinctive green dough wrapper",
+    "colour": "green + brown",
+    "img": "http://themeatmen.sg/wp-content/uploads/2017/07/IMG_4430_small.jpg"
+  },
+  {
+    "name": "Kuih kosui",
+    "ethnic": "peranakan",
+    "taste": "sweet",
+    "description": "soft and wobbly kuih kosui flavored with pandan leaves and gula Melaka fudge",
+    "colour": "brown/green",
+    "img": "https://lh3.googleusercontent.com/-nCzYFrTOcE8/WMnxnU6EuKI/AAAAAAAAEkc/78v1E4KVIBY/resepi-kuih-kaswi-gula-merah-sedap_thumb%25255B1%25255D.jpg?imgmax=800"
+  },
+  {
+    "name": "Kueh jagung",
+    "ethnic": "malay",
+    "taste": "sweet",
+    "description": "sweet corn cake, quite jiggly texture often wrapped in leaves",
+    "colour": "white + yellow",
+    "img": "http://2.bp.blogspot.com/_kmzoZT0BkjA/TMEO584jskI/AAAAAAAAAJA/nO46tcnxn60/s1600/Kuih+Jagung+3.JPG"
+  },
+  {
+    "name": "Onde-onde",
+    "ethnic": "malay",
+    "taste": "sweet",
+    "description": "pandan flavoured glutinous rice balls which bursts with fluid gula melaka when bitten into",
+    "colour": "green",
+    "img": "https://cdn.store-assets.com/s/222452/i/8812989.png"
+  },
+  {
+    "name": "Ang ku kueh",
+    "ethnic": "chinese",
+    "taste": "savoury",
+    "description": "red tortoise glutinous rice cake, known for its bright colour and intricate design",
+    "colour": "red",
+    "img":"https://sethlui.com/wp-content/uploads/2017/01/nonya-kueh-6-799x600.jpg"
+  },
+  {
+    "name": "Soon kueh",
+    "ethnic": "chinese",
+    "taste": "savoury",
+    "description": "dumplings with various types of filligns inside, specfically a Teochew Chinese kueh",
+    "colour": "white",
+    "img":"https://farm1.staticflickr.com/966/28075521498_e9c0322bb5_h.jpg"
+  },
+  {
+    "name": "Kek lapis Batavia",
+    "ethnic": "malay",
+    "taste": "sweet",
+    "description": "butter layered cake, a less colourful variation of rainbow lapis",
+    "colour": "brown",
+    "img":"http://3.bp.blogspot.com/-veCERUgnriY/TqRvSMWTA_I/AAAAAAAAA3M/KpLBjte4CIA/s1600/DSC_1670_1.jpg"
+  },
+  {
+    "name": "Rainbow lapis",
+    "ethnic": "peranakan",
+    "taste": "sweet",
+    "description": "rainbow sticky layers",
+    "colour": "rainbow",
+    "img": "https://media.karousell.com/media/photos/products/2017/01/06/rainbow_lapis_1483685155_b80cc413.jpg"
+  },
+  {
+    "name": "Putu piring",
+    "ethnic": "malay",
+    "taste": "sweet",
+    "description": "round-shaped, traditional steamed rice flour-based cake served with coconut gratings",
+    "colour": "white + orange",
+    "img": "https://media-cdn.tripadvisor.com/media/photo-s/09/2a/ab/c5/traditional-haig-road.jpg"
+  },
+  {
+    "name": "Kueh tutu",
+    "ethnic": "chinese",
+    "taste": "sweet",
+    "description": "round-shaped, traditional steamed rice cake with design on the cake",
+    "colour": "white + brown/orange",
+    "img":"https://www.youngparents.com.sg/wp-content/uploads/2018/08/Queensway-Tutu-Kueh-1.jpg"
+  },
+  {
+    "name": "Kuey neng ko",
+    "ethnic": "chinese",
+    "taste": "sweet",
+    "description": "steamed sponge cake",
+    "colour": "yellow",
+    "img": "https://3.bp.blogspot.com/-yDTeAk8hbFo/U3b5y53tovI/AAAAAAAACKs/mGThWtURjEM/s1600/10356546_10152346218599765_120548449_n.jpg"
+  },
+  {
+    "name": "Kuih tepung bungkus",
+    "ethnic": "malay",
+    "taste": "sweet",
+    "description": "coconut custard wrapped in leaves",
+    "colour": "white + brown",
+    "img":"https://3.bp.blogspot.com/-yDTeAk8hbFo/U3b5y53tovI/AAAAAAAACKs/mGThWtURjEM/s1600/10356546_10152346218599765_120548449_n.jpg"
+  },
+  {
+    "name": "Serimuka pandan",
+    "ethnic": "malay",
+    "taste": "sweet",
+    "description": "coconut and pandan custard",
+    "colour": "green",
+    "img": "https://iluminasi.com/img/upload/pulut-seri-muka-pandan-1.jpg"
+  },
+  {
+    "name": "Mysore pak",
+    "ethnic": "indian",
+    "taste": "sweet",
+    "description": "fudge",
+    "colour": "orange",
+    "img": "https://craftlog.com/m/i/3316727=s1280=h960"
+  },
+  {
+    "name": "Palkova",
+    "ethnic": "indian",
+    "taste": "sweet",
+    "description": "sweet paste",
+    "colour": "white",
+    "img":"http://cookingmanna.com/wp-content/uploads/2018/11/WhatsApp-Image-2018-11-01-at-5.11.25-PM-1.jpeg"
+  },
+  {
+    "name": "Jalebi",
+    "ethnic": "indian",
+    "taste": "sweet",
+    "description": "web-shaped funnel cakes",
+    "colour": "light brown",
+    "img": "https://recipes.timesofindia.com/photo/53099699.cms"
+  },
+  {
+    "name": "Vegetable pakoras",
+    "ethnic": "indian",
+    "taste": "savoury",
+    "description": "vegetable fritters",
+    "colour": "brown",
+    "img": "https://www.indianhealthyrecipes.com/wp-content/uploads/2016/03/veg-pakora-recipe.jpg"
+  },
+  {
+    "name": "Aloo paneer",
+    "ethnic": "indian",
+    "taste": "savoury",
+    "description": "spicy vegetarian curry",
+    "colour": "orange-brown",
+    "img": "https://recipes.timesofindia.com/photo/54691934.cms"  
+  },
+  {
+    "name": "Mango lassi",
+    "ethnic": "indian",
+    "taste": "sweet",
+    "description": "yogurt based mango smoothie",
+    "colour": "yellow",
+    "img": "https://cdn-image.myrecipes.com/sites/default/files/styles/medium_2x/public/image/recipes/ck/13/09/mango-lassi-smoothie-ck-x.jpg?itok=o3TKsTvL"
+  },
+  {
+    "name": "Besan ki barfi",
+    "ethnic": "indian",
+    "taste": "sweet",
+    "description": "fudge, super sweet sticky fudge",
+    "colour": "orange-brown",
+    "img": "https://www.ebox.mu/assets/recipes/l/xNusYeKDfShigFKyG3W7jgfrjacFuwhVkAySSOM2J.jpg.pagespeed.ic.xTwHosoS9e.jpg"
+  },
+  {
+    "name": "Gulab jamun",
+    "ethnic": "indian",
+    "taste": "sweet",
+    "description": "milk-solid-based sweet deep-fried dumplings",
+    "colour": "brown",
+    "img": "https://www.vegrecipesofindia.com/wp-content/uploads/2014/08/gulab-jamun-recipe-2-1-500x375.jpg"
+  },
+  {
+    "name": "Adhirasam",
+    "ethnic": "indian",
+    "taste": "sweet",
+    "description": "indian type of donuts",
+    "colour": "brown",
+    "img": "https://5.imimg.com/data5/DO/FO/GLADMIN-47875265/adhirasam-500x500.png"
+  },
+  {
+    "name": "Muruku",
+    "ethnic": "indian",
+    "taste": "savoury",
+    "description": "mildly spicy indian cookies made by coiling the batter and then frying",
+    "colour": "light brown",
+    "img": "https://i.ytimg.com/vi/plTOD4yFvZ0/hqdefault.jpg"
+  },
+  {
+    "name": "Laddu",
+    "ethnic": "indian",
+    "taste": "sweet",
+    "description": "sphere-shaped sweet ball",
+    "colour": "light brown",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVSJjARwhi_nYFay5bVTMTAjPM5nLnI4CaqC5C18NxFRTr_sDm"
+  },
+  {
+    "name": "Jangri",
+    "ethnic": "indian",
+    "taste": "sweet",
+    "description": "circular flower shape, deep-frying vigna mungo flour batter",
+    "colour": "orange",
+    "img": "https://i.ytimg.com/vi/PtSMEiBofew/maxresdefault.jpg"
+  },
+  {
+    "name": "Samosa",
+    "ethnic": "indian",
+    "taste": "savoury",
+    "description": "fried spiced potatoes, onions, peas, or lentils wrapped in triangular shaped dough",
+    "colour": "light brown",
+    "img": "https://www.vegrecipesofindia.com/wp-content/uploads/2013/11/samosa-recipe-1.jpg"
+  },
+  {
+    "name": "Vadai",
+    "ethnic": "indian",
+    "taste": "savoury",
+    "description": "fried flour infused with spices",
+    "colour": "light brown",
+    "img":"https://www.rotinrice.com/wp-content/uploads/2012/04/UlundhuVadai-1.jpg"
+  }
+]

@@ -6,9 +6,24 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link href="https://fonts.googleapis.com/css?family=Reenie+Beanie|Open+Sans+Condensed:300&display=swap" rel="stylesheet"> 
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css" />
-	<link rel="stylesheet" href="./main.css" />
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.9.2/d3.min.js"></script>
 	<script src="./data.js"></script>
+	<style>
+		#title {
+			text-align: center;
+		}
+		
+		.content h1 {
+			font-family: 'Reenie Beanie', sans-serif;
+			font-size: 84px;
+		}
+
+		svg {
+			margin-left: auto;
+			margin-right: auto;
+			width: 100%;
+		}
+	</style>
 </head>
 <body>
 	<div class="content">
@@ -21,6 +36,44 @@
 		<button id="undo">Undo</button>
 	</div>
 	<script>
+		let data = [
+			{
+				"color": "#1abc9c",
+				"race": "Malay",
+				"race_pos": 1,
+				"hue": "Cool",
+				"hue_pos": 1
+			},
+			{
+				"color": "#f1c40f",
+				"race": "Malay",
+				"race_pos": 2,
+				"hue": "Warm",
+				"hue_pos": 1
+			},
+			{
+				"color": "#e74c3c",
+				"race": "Indian",
+				"race_pos": 1,
+				"hue": "Warm",
+				"hue_pos": 2
+			},
+			{
+				"color": "#3498db",
+				"race": "Chinese",
+				"race_pos": 1,
+				"hue": "Cool",
+				"hue_pos": 2
+			},
+			{
+				"color": "#34495e",
+				"race": "Chinese",
+				"race_pos": 2,
+				"hue": "Cool",
+				"hue_pos": 3
+			},
+		];
+		
 		let svg = d3.select('svg');
 		
 		let circles = svg.selectAll('circle')

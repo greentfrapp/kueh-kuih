@@ -1,0 +1,2297 @@
+[
+ {
+   "ID": 1,
+   "Ethnicty": "chinese",
+   "Ingredients": "oil"
+ },
+ {
+   "ID": 2,
+   "Ethnicty": "chinese",
+   "Ingredients": "salt"
+ },
+ {
+   "ID": 3,
+   "Ethnicty": "chinese",
+   "Ingredients": "white sugar"
+ },
+ {
+   "ID": 4,
+   "Ethnicty": "chinese",
+   "Ingredients": "chilli paste"
+ },
+ {
+   "ID": 5,
+   "Ethnicty": "chinese",
+   "Ingredients": "water"
+ },
+ {
+   "ID": 6,
+   "Ethnicty": "chinese",
+   "Ingredients": "bean curd"
+ },
+ {
+   "ID": 7,
+   "Ethnicty": "chinese",
+   "Ingredients": "french beans"
+ },
+ {
+   "ID": 8,
+   "Ethnicty": "chinese",
+   "Ingredients": "fried shallots"
+ },
+ {
+   "ID": 9,
+   "Ethnicty": "chinese",
+   "Ingredients": "white pepper"
+ },
+ {
+   "ID": 10,
+   "Ethnicty": "chinese",
+   "Ingredients": "lettuce leaves"
+ },
+ {
+   "ID": 11,
+   "Ethnicty": "chinese",
+   "Ingredients": "shrims or prawns"
+ },
+ {
+   "ID": 12,
+   "Ethnicty": "chinese",
+   "Ingredients": "spring roll wrappers"
+ },
+ {
+   "ID": 13,
+   "Ethnicty": "chinese",
+   "Ingredients": "sweet sauce"
+ },
+ {
+   "ID": 14,
+   "Ethnicty": "chinese",
+   "Ingredients": "yam bean"
+ },
+ {
+   "ID": 15,
+   "Ethnicty": "malay",
+   "Ingredients": "salt"
+ },
+ {
+   "ID": 16,
+   "Ethnicty": "malay",
+   "Ingredients": "white sugar"
+ },
+ {
+   "ID": 17,
+   "Ethnicty": "malay",
+   "Ingredients": "chilli"
+ },
+ {
+   "ID": 18,
+   "Ethnicty": "malay",
+   "Ingredients": "water"
+ },
+ {
+   "ID": 19,
+   "Ethnicty": "malay",
+   "Ingredients": "grated coconut"
+ },
+ {
+   "ID": 20,
+   "Ethnicty": "malay",
+   "Ingredients": "coconut milk"
+ },
+ {
+   "ID": 21,
+   "Ethnicty": "malay",
+   "Ingredients": "coriander seeds"
+ },
+ {
+   "ID": 22,
+   "Ethnicty": "malay",
+   "Ingredients": "cumin seeds"
+ },
+ {
+   "ID": 23,
+   "Ethnicty": "malay",
+   "Ingredients": "dried shrimps"
+ },
+ {
+   "ID": 24,
+   "Ethnicty": "malay",
+   "Ingredients": "galangal"
+ },
+ {
+   "ID": 25,
+   "Ethnicty": "malay",
+   "Ingredients": "garlic"
+ },
+ {
+   "ID": 26,
+   "Ethnicty": "malay",
+   "Ingredients": "glutinous rice"
+ },
+ {
+   "ID": 27,
+   "Ethnicty": "malay",
+   "Ingredients": "lemon grass"
+ },
+ {
+   "ID": 28,
+   "Ethnicty": "malay",
+   "Ingredients": "lemon juice"
+ },
+ {
+   "ID": 29,
+   "Ethnicty": "malay",
+   "Ingredients": "onion"
+ },
+ {
+   "ID": 30,
+   "Ethnicty": "malay",
+   "Ingredients": "pandan leaves"
+ },
+ {
+   "ID": 31,
+   "Ethnicty": "malay",
+   "Ingredients": "tumeric"
+ },
+ {
+   "ID": 32,
+   "Ethnicty": "chinese",
+   "Ingredients": "oil"
+ },
+ {
+   "ID": 33,
+   "Ethnicty": "chinese",
+   "Ingredients": "salt"
+ },
+ {
+   "ID": 34,
+   "Ethnicty": "chinese",
+   "Ingredients": "water"
+ },
+ {
+   "ID": 35,
+   "Ethnicty": "chinese",
+   "Ingredients": "rice flour"
+ },
+ {
+   "ID": 36,
+   "Ethnicty": "chinese",
+   "Ingredients": "dried shrimps"
+ },
+ {
+   "ID": 37,
+   "Ethnicty": "chinese",
+   "Ingredients": "fried shallots"
+ },
+ {
+   "ID": 38,
+   "Ethnicty": "chinese",
+   "Ingredients": "garlic"
+ },
+ {
+   "ID": 39,
+   "Ethnicty": "chinese",
+   "Ingredients": "yam"
+ },
+ {
+   "ID": 40,
+   "Ethnicty": "malay",
+   "Ingredients": "salt"
+ },
+ {
+   "ID": 41,
+   "Ethnicty": "malay",
+   "Ingredients": "white sugar"
+ },
+ {
+   "ID": 42,
+   "Ethnicty": "malay",
+   "Ingredients": "water"
+ },
+ {
+   "ID": 43,
+   "Ethnicty": "malay",
+   "Ingredients": "coconut milk"
+ },
+ {
+   "ID": 44,
+   "Ethnicty": "malay",
+   "Ingredients": "pandan leaves"
+ },
+ {
+   "ID": 45,
+   "Ethnicty": "malay",
+   "Ingredients": "sago"
+ },
+ {
+   "ID": 46,
+   "Ethnicty": "indian",
+   "Ingredients": "oil"
+ },
+ {
+   "ID": 47,
+   "Ethnicty": "indian",
+   "Ingredients": "salt"
+ },
+ {
+   "ID": 48,
+   "Ethnicty": "indian",
+   "Ingredients": "rice flour"
+ },
+ {
+   "ID": 49,
+   "Ethnicty": "indian",
+   "Ingredients": "banana leaves"
+ },
+ {
+   "ID": 50,
+   "Ethnicty": "indian",
+   "Ingredients": "grated coconut"
+ },
+ {
+   "ID": 51,
+   "Ethnicty": "indian",
+   "Ingredients": "gula melaka"
+ },
+ {
+   "ID": 52,
+   "Ethnicty": "peranakan",
+   "Ingredients": "salt"
+ },
+ {
+   "ID": 53,
+   "Ethnicty": "peranakan",
+   "Ingredients": "white sugar"
+ },
+ {
+   "ID": 54,
+   "Ethnicty": "peranakan",
+   "Ingredients": "water"
+ },
+ {
+   "ID": 55,
+   "Ethnicty": "peranakan",
+   "Ingredients": "coconut milk"
+ },
+ {
+   "ID": 56,
+   "Ethnicty": "peranakan",
+   "Ingredients": "mung bean starch"
+ },
+ {
+   "ID": 57,
+   "Ethnicty": "peranakan",
+   "Ingredients": "pandan leaves"
+ },
+ {
+   "ID": 58,
+   "Ethnicty": "peranakan",
+   "Ingredients": "water chestnut"
+ },
+ {
+   "ID": 59,
+   "Ethnicty": "chinese",
+   "Ingredients": "salt"
+ },
+ {
+   "ID": 60,
+   "Ethnicty": "chinese",
+   "Ingredients": "butter"
+ },
+ {
+   "ID": 61,
+   "Ethnicty": "chinese",
+   "Ingredients": "egg"
+ },
+ {
+   "ID": 62,
+   "Ethnicty": "chinese",
+   "Ingredients": "rock sugar"
+ },
+ {
+   "ID": 63,
+   "Ethnicty": "chinese",
+   "Ingredients": "water"
+ },
+ {
+   "ID": 64,
+   "Ethnicty": "chinese",
+   "Ingredients": "plain flour"
+ },
+ {
+   "ID": 65,
+   "Ethnicty": "chinese",
+   "Ingredients": "cinnamon sticks"
+ },
+ {
+   "ID": 66,
+   "Ethnicty": "chinese",
+   "Ingredients": "cloves"
+ },
+ {
+   "ID": 67,
+   "Ethnicty": "chinese",
+   "Ingredients": "pineapple"
+ },
+ {
+   "ID": 68,
+   "Ethnicty": "malay",
+   "Ingredients": "ghee"
+ },
+ {
+   "ID": 69,
+   "Ethnicty": "malay",
+   "Ingredients": "icing sugar"
+ },
+ {
+   "ID": 70,
+   "Ethnicty": "malay",
+   "Ingredients": "plain flour"
+ },
+ {
+   "ID": 71,
+   "Ethnicty": "malay",
+   "Ingredients": "semolina flour"
+ },
+ {
+   "ID": 72,
+   "Ethnicty": "malay",
+   "Ingredients": "glaced cherries"
+ },
+ {
+   "ID": 73,
+   "Ethnicty": "malay",
+   "Ingredients": "baking powder"
+ },
+ {
+   "ID": 74,
+   "Ethnicty": "malay",
+   "Ingredients": "salt"
+ },
+ {
+   "ID": 75,
+   "Ethnicty": "malay",
+   "Ingredients": "butter"
+ },
+ {
+   "ID": 76,
+   "Ethnicty": "malay",
+   "Ingredients": "egg"
+ },
+ {
+   "ID": 77,
+   "Ethnicty": "malay",
+   "Ingredients": "caster sugar"
+ },
+ {
+   "ID": 78,
+   "Ethnicty": "malay",
+   "Ingredients": "cake flour"
+ },
+ {
+   "ID": 79,
+   "Ethnicty": "malay",
+   "Ingredients": "cocoa powder"
+ },
+ {
+   "ID": 80,
+   "Ethnicty": "malay",
+   "Ingredients": "coffee powder"
+ },
+ {
+   "ID": 81,
+   "Ethnicty": "malay",
+   "Ingredients": "milk"
+ },
+ {
+   "ID": 82,
+   "Ethnicty": "malay",
+   "Ingredients": "vanilla extract"
+ },
+ {
+   "ID": 83,
+   "Ethnicty": "malay",
+   "Ingredients": "baking powder"
+ },
+ {
+   "ID": 84,
+   "Ethnicty": "malay",
+   "Ingredients": "oil"
+ },
+ {
+   "ID": 85,
+   "Ethnicty": "malay",
+   "Ingredients": "egg"
+ },
+ {
+   "ID": 86,
+   "Ethnicty": "malay",
+   "Ingredients": "white sugar"
+ },
+ {
+   "ID": 87,
+   "Ethnicty": "malay",
+   "Ingredients": "wheat flour"
+ },
+ {
+   "ID": 88,
+   "Ethnicty": "chinese",
+   "Ingredients": "baking powder"
+ },
+ {
+   "ID": 89,
+   "Ethnicty": "chinese",
+   "Ingredients": "oil"
+ },
+ {
+   "ID": 90,
+   "Ethnicty": "chinese",
+   "Ingredients": "egg"
+ },
+ {
+   "ID": 91,
+   "Ethnicty": "chinese",
+   "Ingredients": "white sugar"
+ },
+ {
+   "ID": 92,
+   "Ethnicty": "chinese",
+   "Ingredients": "wheat flour"
+ },
+ {
+   "ID": 93,
+   "Ethnicty": "malay",
+   "Ingredients": "baking powder"
+ },
+ {
+   "ID": 94,
+   "Ethnicty": "malay",
+   "Ingredients": "egg"
+ },
+ {
+   "ID": 95,
+   "Ethnicty": "malay",
+   "Ingredients": "egg yolk"
+ },
+ {
+   "ID": 96,
+   "Ethnicty": "malay",
+   "Ingredients": "caster sugar"
+ },
+ {
+   "ID": 97,
+   "Ethnicty": "malay",
+   "Ingredients": "tapioca flour"
+ },
+ {
+   "ID": 98,
+   "Ethnicty": "malay",
+   "Ingredients": "coconut cream"
+ },
+ {
+   "ID": 99,
+   "Ethnicty": "malay",
+   "Ingredients": "salt"
+ },
+ {
+   "ID": 100,
+   "Ethnicty": "malay",
+   "Ingredients": "egg"
+ },
+ {
+   "ID": 101,
+   "Ethnicty": "malay",
+   "Ingredients": "caster sugar"
+ },
+ {
+   "ID": 102,
+   "Ethnicty": "malay",
+   "Ingredients": "self-raising flour"
+ },
+ {
+   "ID": 103,
+   "Ethnicty": "malay",
+   "Ingredients": "condensed milk"
+ },
+ {
+   "ID": 104,
+   "Ethnicty": "malay",
+   "Ingredients": "grated coconut"
+ },
+ {
+   "ID": 105,
+   "Ethnicty": "malay",
+   "Ingredients": "coconut milk"
+ },
+ {
+   "ID": 106,
+   "Ethnicty": "malay",
+   "Ingredients": "corn flour"
+ },
+ {
+   "ID": 107,
+   "Ethnicty": "malay",
+   "Ingredients": "pandan leaves"
+ },
+ {
+   "ID": 108,
+   "Ethnicty": "malay",
+   "Ingredients": "salt"
+ },
+ {
+   "ID": 109,
+   "Ethnicty": "malay",
+   "Ingredients": "brown sugar"
+ },
+ {
+   "ID": 110,
+   "Ethnicty": "malay",
+   "Ingredients": "white sugar"
+ },
+ {
+   "ID": 111,
+   "Ethnicty": "malay",
+   "Ingredients": "water"
+ },
+ {
+   "ID": 112,
+   "Ethnicty": "malay",
+   "Ingredients": "grated coconut"
+ },
+ {
+   "ID": 113,
+   "Ethnicty": "malay",
+   "Ingredients": "gula melaka"
+ },
+ {
+   "ID": 114,
+   "Ethnicty": "malay",
+   "Ingredients": "pandan leaves"
+ },
+ {
+   "ID": 115,
+   "Ethnicty": "chinese",
+   "Ingredients": "egg"
+ },
+ {
+   "ID": 116,
+   "Ethnicty": "chinese",
+   "Ingredients": "icing sugar"
+ },
+ {
+   "ID": 117,
+   "Ethnicty": "chinese",
+   "Ingredients": "plain flour"
+ },
+ {
+   "ID": 118,
+   "Ethnicty": "chinese",
+   "Ingredients": "rice flour"
+ },
+ {
+   "ID": 119,
+   "Ethnicty": "chinese",
+   "Ingredients": "coconut cream"
+ },
+ {
+   "ID": 120,
+   "Ethnicty": "chinese",
+   "Ingredients": "corn flour"
+ },
+ {
+   "ID": 121,
+   "Ethnicty": "malay",
+   "Ingredients": "salt"
+ },
+ {
+   "ID": 122,
+   "Ethnicty": "malay",
+   "Ingredients": "butter"
+ },
+ {
+   "ID": 123,
+   "Ethnicty": "malay",
+   "Ingredients": "icing sugar"
+ },
+ {
+   "ID": 124,
+   "Ethnicty": "malay",
+   "Ingredients": "white sugar"
+ },
+ {
+   "ID": 125,
+   "Ethnicty": "malay",
+   "Ingredients": "water"
+ },
+ {
+   "ID": 126,
+   "Ethnicty": "malay",
+   "Ingredients": "plain flour"
+ },
+ {
+   "ID": 127,
+   "Ethnicty": "malay",
+   "Ingredients": "peanut"
+ },
+ {
+   "ID": 128,
+   "Ethnicty": "malay",
+   "Ingredients": "vanilla extract"
+ },
+ {
+   "ID": 129,
+   "Ethnicty": "chinese",
+   "Ingredients": "baking powder"
+ },
+ {
+   "ID": 130,
+   "Ethnicty": "chinese",
+   "Ingredients": "oil"
+ },
+ {
+   "ID": 131,
+   "Ethnicty": "chinese",
+   "Ingredients": "brown sugar"
+ },
+ {
+   "ID": 132,
+   "Ethnicty": "chinese",
+   "Ingredients": "white sugar"
+ },
+ {
+   "ID": 133,
+   "Ethnicty": "chinese",
+   "Ingredients": "water"
+ },
+ {
+   "ID": 134,
+   "Ethnicty": "chinese",
+   "Ingredients": "plain flour"
+ },
+ {
+   "ID": 135,
+   "Ethnicty": "chinese",
+   "Ingredients": "egg"
+ },
+ {
+   "ID": 136,
+   "Ethnicty": "chinese",
+   "Ingredients": "chilli paste"
+ },
+ {
+   "ID": 137,
+   "Ethnicty": "chinese",
+   "Ingredients": "water"
+ },
+ {
+   "ID": 138,
+   "Ethnicty": "chinese",
+   "Ingredients": "rice flour"
+ },
+ {
+   "ID": 139,
+   "Ethnicty": "chinese",
+   "Ingredients": "fish sauce"
+ },
+ {
+   "ID": 140,
+   "Ethnicty": "chinese",
+   "Ingredients": "garlic"
+ },
+ {
+   "ID": 141,
+   "Ethnicty": "chinese",
+   "Ingredients": "preserved radish (chai poh)"
+ },
+ {
+   "ID": 142,
+   "Ethnicty": "chinese",
+   "Ingredients": "radish"
+ },
+ {
+   "ID": 143,
+   "Ethnicty": "chinese",
+   "Ingredients": "baking soda"
+ },
+ {
+   "ID": 144,
+   "Ethnicty": "chinese",
+   "Ingredients": "instant yeast"
+ },
+ {
+   "ID": 145,
+   "Ethnicty": "chinese",
+   "Ingredients": "egg"
+ },
+ {
+   "ID": 146,
+   "Ethnicty": "chinese",
+   "Ingredients": "white sugar"
+ },
+ {
+   "ID": 147,
+   "Ethnicty": "chinese",
+   "Ingredients": "water"
+ },
+ {
+   "ID": 148,
+   "Ethnicty": "chinese",
+   "Ingredients": "plain flour"
+ },
+ {
+   "ID": 149,
+   "Ethnicty": "chinese",
+   "Ingredients": "peanut"
+ },
+ {
+   "ID": 150,
+   "Ethnicty": "chinese",
+   "Ingredients": "egg"
+ },
+ {
+   "ID": 151,
+   "Ethnicty": "chinese",
+   "Ingredients": "salted eggs"
+ },
+ {
+   "ID": 152,
+   "Ethnicty": "chinese",
+   "Ingredients": "lye water"
+ },
+ {
+   "ID": 153,
+   "Ethnicty": "chinese",
+   "Ingredients": "hong kong flour"
+ },
+ {
+   "ID": 154,
+   "Ethnicty": "chinese",
+   "Ingredients": "golden syrup"
+ },
+ {
+   "ID": 155,
+   "Ethnicty": "chinese",
+   "Ingredients": "lotus paste"
+ },
+ {
+   "ID": 156,
+   "Ethnicty": "chinese",
+   "Ingredients": "melon seeds"
+ },
+ {
+   "ID": 157,
+   "Ethnicty": "chinese",
+   "Ingredients": "peanut oil"
+ },
+ {
+   "ID": 158,
+   "Ethnicty": "chinese",
+   "Ingredients": "oil"
+ },
+ {
+   "ID": 159,
+   "Ethnicty": "chinese",
+   "Ingredients": "salt"
+ },
+ {
+   "ID": 160,
+   "Ethnicty": "chinese",
+   "Ingredients": "water"
+ },
+ {
+   "ID": 161,
+   "Ethnicty": "chinese",
+   "Ingredients": "glutinous rice flour"
+ },
+ {
+   "ID": 162,
+   "Ethnicty": "chinese",
+   "Ingredients": "rice flour"
+ },
+ {
+   "ID": 163,
+   "Ethnicty": "chinese",
+   "Ingredients": "chicken stock"
+ },
+ {
+   "ID": 164,
+   "Ethnicty": "chinese",
+   "Ingredients": "chinese peach colouring"
+ },
+ {
+   "ID": 165,
+   "Ethnicty": "chinese",
+   "Ingredients": "dried mushrooms"
+ },
+ {
+   "ID": 166,
+   "Ethnicty": "chinese",
+   "Ingredients": "dried shrimps"
+ },
+ {
+   "ID": 167,
+   "Ethnicty": "chinese",
+   "Ingredients": "glutinous rice"
+ },
+ {
+   "ID": 168,
+   "Ethnicty": "chinese",
+   "Ingredients": "peanut"
+ },
+ {
+   "ID": 169,
+   "Ethnicty": "chinese",
+   "Ingredients": "white pepper"
+ },
+ {
+   "ID": 170,
+   "Ethnicty": "chinese",
+   "Ingredients": "light soya sauce"
+ },
+ {
+   "ID": 171,
+   "Ethnicty": "chinese",
+   "Ingredients": "shallots"
+ },
+ {
+   "ID": 172,
+   "Ethnicty": "chinese",
+   "Ingredients": "spring onion"
+ },
+ {
+   "ID": 173,
+   "Ethnicty": "chinese",
+   "Ingredients": "baking powder"
+ },
+ {
+   "ID": 174,
+   "Ethnicty": "chinese",
+   "Ingredients": "salt"
+ },
+ {
+   "ID": 175,
+   "Ethnicty": "chinese",
+   "Ingredients": "butter"
+ },
+ {
+   "ID": 176,
+   "Ethnicty": "chinese",
+   "Ingredients": "egg"
+ },
+ {
+   "ID": 177,
+   "Ethnicty": "chinese",
+   "Ingredients": "water"
+ },
+ {
+   "ID": 178,
+   "Ethnicty": "chinese",
+   "Ingredients": "plain flour"
+ },
+ {
+   "ID": 179,
+   "Ethnicty": "chinese",
+   "Ingredients": "milk"
+ },
+ {
+   "ID": 180,
+   "Ethnicty": "malay",
+   "Ingredients": "butter"
+ },
+ {
+   "ID": 181,
+   "Ethnicty": "malay",
+   "Ingredients": "egg"
+ },
+ {
+   "ID": 182,
+   "Ethnicty": "malay",
+   "Ingredients": "white sugar"
+ },
+ {
+   "ID": 183,
+   "Ethnicty": "malay",
+   "Ingredients": "tapioca flour"
+ },
+ {
+   "ID": 184,
+   "Ethnicty": "malay",
+   "Ingredients": "banana leaves"
+ },
+ {
+   "ID": 185,
+   "Ethnicty": "malay",
+   "Ingredients": "coconut milk"
+ },
+ {
+   "ID": 186,
+   "Ethnicty": "malay",
+   "Ingredients": "pandan leaves"
+ },
+ {
+   "ID": 187,
+   "Ethnicty": "malay",
+   "Ingredients": "tapioca"
+ },
+ {
+   "ID": 188,
+   "Ethnicty": "malay",
+   "Ingredients": "salt"
+ },
+ {
+   "ID": 189,
+   "Ethnicty": "malay",
+   "Ingredients": "white sugar"
+ },
+ {
+   "ID": 190,
+   "Ethnicty": "malay",
+   "Ingredients": "lye water"
+ },
+ {
+   "ID": 191,
+   "Ethnicty": "malay",
+   "Ingredients": "tapioca flour"
+ },
+ {
+   "ID": 192,
+   "Ethnicty": "malay",
+   "Ingredients": "mung bean flour"
+ },
+ {
+   "ID": 193,
+   "Ethnicty": "malay",
+   "Ingredients": "rice flour"
+ },
+ {
+   "ID": 194,
+   "Ethnicty": "malay",
+   "Ingredients": "coconut cream"
+ },
+ {
+   "ID": 195,
+   "Ethnicty": "malay",
+   "Ingredients": "pandan leaves"
+ },
+ {
+   "ID": 196,
+   "Ethnicty": "malay",
+   "Ingredients": "salt"
+ },
+ {
+   "ID": 197,
+   "Ethnicty": "malay",
+   "Ingredients": "egg"
+ },
+ {
+   "ID": 198,
+   "Ethnicty": "malay",
+   "Ingredients": "white sugar"
+ },
+ {
+   "ID": 199,
+   "Ethnicty": "malay",
+   "Ingredients": "plain flour"
+ },
+ {
+   "ID": 200,
+   "Ethnicty": "malay",
+   "Ingredients": "tapioca flour"
+ },
+ {
+   "ID": 201,
+   "Ethnicty": "malay",
+   "Ingredients": "glutinous rice flour"
+ },
+ {
+   "ID": 202,
+   "Ethnicty": "malay",
+   "Ingredients": "blue pea flowers"
+ },
+ {
+   "ID": 203,
+   "Ethnicty": "malay",
+   "Ingredients": "coconut cream"
+ },
+ {
+   "ID": 204,
+   "Ethnicty": "malay",
+   "Ingredients": "pandan leaves"
+ },
+ {
+   "ID": 205,
+   "Ethnicty": "peranakan",
+   "Ingredients": "oil"
+ },
+ {
+   "ID": 206,
+   "Ethnicty": "peranakan",
+   "Ingredients": "salt"
+ },
+ {
+   "ID": 207,
+   "Ethnicty": "peranakan",
+   "Ingredients": "egg"
+ },
+ {
+   "ID": 208,
+   "Ethnicty": "peranakan",
+   "Ingredients": "white sugar"
+ },
+ {
+   "ID": 209,
+   "Ethnicty": "peranakan",
+   "Ingredients": "water"
+ },
+ {
+   "ID": 210,
+   "Ethnicty": "peranakan",
+   "Ingredients": "plain flour"
+ },
+ {
+   "ID": 211,
+   "Ethnicty": "peranakan",
+   "Ingredients": "rice flour"
+ },
+ {
+   "ID": 212,
+   "Ethnicty": "peranakan",
+   "Ingredients": "corn flour"
+ },
+ {
+   "ID": 213,
+   "Ethnicty": "peranakan",
+   "Ingredients": "dried shrimps"
+ },
+ {
+   "ID": 214,
+   "Ethnicty": "peranakan",
+   "Ingredients": "french beans"
+ },
+ {
+   "ID": 215,
+   "Ethnicty": "peranakan",
+   "Ingredients": "garlic"
+ },
+ {
+   "ID": 216,
+   "Ethnicty": "peranakan",
+   "Ingredients": "ginger"
+ },
+ {
+   "ID": 217,
+   "Ethnicty": "peranakan",
+   "Ingredients": "shallots"
+ },
+ {
+   "ID": 218,
+   "Ethnicty": "peranakan",
+   "Ingredients": "turnip"
+ },
+ {
+   "ID": 219,
+   "Ethnicty": "peranakan",
+   "Ingredients": "white vinegar"
+ },
+ {
+   "ID": 220,
+   "Ethnicty": "chinese",
+   "Ingredients": "oil"
+ },
+ {
+   "ID": 221,
+   "Ethnicty": "chinese",
+   "Ingredients": "salt"
+ },
+ {
+   "ID": 222,
+   "Ethnicty": "chinese",
+   "Ingredients": "white sugar"
+ },
+ {
+   "ID": 223,
+   "Ethnicty": "chinese",
+   "Ingredients": "sambal chilli"
+ },
+ {
+   "ID": 224,
+   "Ethnicty": "chinese",
+   "Ingredients": "water"
+ },
+ {
+   "ID": 225,
+   "Ethnicty": "chinese",
+   "Ingredients": "tapioca flour"
+ },
+ {
+   "ID": 226,
+   "Ethnicty": "chinese",
+   "Ingredients": "rice flour"
+ },
+ {
+   "ID": 227,
+   "Ethnicty": "chinese",
+   "Ingredients": "dark soy sauce"
+ },
+ {
+   "ID": 228,
+   "Ethnicty": "chinese",
+   "Ingredients": "garlic"
+ },
+ {
+   "ID": 229,
+   "Ethnicty": "chinese",
+   "Ingredients": "white pepper"
+ },
+ {
+   "ID": 230,
+   "Ethnicty": "chinese",
+   "Ingredients": "preserved radish (chai poh)"
+ },
+ {
+   "ID": 231,
+   "Ethnicty": "chinese",
+   "Ingredients": "shallots"
+ },
+ {
+   "ID": 232,
+   "Ethnicty": "peranakan",
+   "Ingredients": "oil"
+ },
+ {
+   "ID": 233,
+   "Ethnicty": "peranakan",
+   "Ingredients": "salt"
+ },
+ {
+   "ID": 234,
+   "Ethnicty": "peranakan",
+   "Ingredients": "chilli"
+ },
+ {
+   "ID": 235,
+   "Ethnicty": "peranakan",
+   "Ingredients": "ikan bilis powder"
+ },
+ {
+   "ID": 236,
+   "Ethnicty": "peranakan",
+   "Ingredients": "banana leaves"
+ },
+ {
+   "ID": 237,
+   "Ethnicty": "peranakan",
+   "Ingredients": "bunga telang juice"
+ },
+ {
+   "ID": 238,
+   "Ethnicty": "peranakan",
+   "Ingredients": "grated coconut"
+ },
+ {
+   "ID": 239,
+   "Ethnicty": "peranakan",
+   "Ingredients": "coconut cream"
+ },
+ {
+   "ID": 240,
+   "Ethnicty": "peranakan",
+   "Ingredients": "dried shrimps"
+ },
+ {
+   "ID": 241,
+   "Ethnicty": "peranakan",
+   "Ingredients": "glutinous rice"
+ },
+ {
+   "ID": 242,
+   "Ethnicty": "peranakan",
+   "Ingredients": "lemon grass"
+ },
+ {
+   "ID": 243,
+   "Ethnicty": "peranakan",
+   "Ingredients": "shrims or prawns"
+ },
+ {
+   "ID": 244,
+   "Ethnicty": "peranakan",
+   "Ingredients": "shallots"
+ },
+ {
+   "ID": 245,
+   "Ethnicty": "peranakan",
+   "Ingredients": "tumeric"
+ },
+ {
+   "ID": 246,
+   "Ethnicty": "chinese",
+   "Ingredients": "oil"
+ },
+ {
+   "ID": 247,
+   "Ethnicty": "chinese",
+   "Ingredients": "salt"
+ },
+ {
+   "ID": 248,
+   "Ethnicty": "chinese",
+   "Ingredients": "white sugar"
+ },
+ {
+   "ID": 249,
+   "Ethnicty": "chinese",
+   "Ingredients": "water"
+ },
+ {
+   "ID": 250,
+   "Ethnicty": "chinese",
+   "Ingredients": "tapioca flour"
+ },
+ {
+   "ID": 251,
+   "Ethnicty": "chinese",
+   "Ingredients": "wheat flour"
+ },
+ {
+   "ID": 252,
+   "Ethnicty": "chinese",
+   "Ingredients": "carrot"
+ },
+ {
+   "ID": 253,
+   "Ethnicty": "chinese",
+   "Ingredients": "chinese parsley"
+ },
+ {
+   "ID": 254,
+   "Ethnicty": "chinese",
+   "Ingredients": "dark soy sauce"
+ },
+ {
+   "ID": 255,
+   "Ethnicty": "chinese",
+   "Ingredients": "dried shrimps"
+ },
+ {
+   "ID": 256,
+   "Ethnicty": "chinese",
+   "Ingredients": "garlic"
+ },
+ {
+   "ID": 257,
+   "Ethnicty": "chinese",
+   "Ingredients": "white pepper"
+ },
+ {
+   "ID": 258,
+   "Ethnicty": "chinese",
+   "Ingredients": "mushrooms"
+ },
+ {
+   "ID": 259,
+   "Ethnicty": "chinese",
+   "Ingredients": "skinless belly pork"
+ },
+ {
+   "ID": 260,
+   "Ethnicty": "chinese",
+   "Ingredients": "spring onion"
+ },
+ {
+   "ID": 261,
+   "Ethnicty": "chinese",
+   "Ingredients": "yam bean"
+ },
+ {
+   "ID": 262,
+   "Ethnicty": "peranakan",
+   "Ingredients": "oil"
+ },
+ {
+   "ID": 263,
+   "Ethnicty": "peranakan",
+   "Ingredients": "salt"
+ },
+ {
+   "ID": 264,
+   "Ethnicty": "peranakan",
+   "Ingredients": "egg"
+ },
+ {
+   "ID": 265,
+   "Ethnicty": "peranakan",
+   "Ingredients": "water"
+ },
+ {
+   "ID": 266,
+   "Ethnicty": "peranakan",
+   "Ingredients": "plain flour"
+ },
+ {
+   "ID": 267,
+   "Ethnicty": "peranakan",
+   "Ingredients": "grated coconut"
+ },
+ {
+   "ID": 268,
+   "Ethnicty": "peranakan",
+   "Ingredients": "coconut cream"
+ },
+ {
+   "ID": 269,
+   "Ethnicty": "peranakan",
+   "Ingredients": "gula melaka"
+ },
+ {
+   "ID": 270,
+   "Ethnicty": "peranakan",
+   "Ingredients": "pandan leaves"
+ },
+ {
+   "ID": 274,
+   "Ethnicty": "peranakan",
+   "Ingredients": "salt"
+ },
+ {
+   "ID": 275,
+   "Ethnicty": "peranakan",
+   "Ingredients": "lye water"
+ },
+ {
+   "ID": 276,
+   "Ethnicty": "peranakan",
+   "Ingredients": "water"
+ },
+ {
+   "ID": 277,
+   "Ethnicty": "peranakan",
+   "Ingredients": "rice flour"
+ },
+ {
+   "ID": 278,
+   "Ethnicty": "peranakan",
+   "Ingredients": "grated coconut"
+ },
+ {
+   "ID": 279,
+   "Ethnicty": "peranakan",
+   "Ingredients": "gula melaka"
+ },
+ {
+   "ID": 280,
+   "Ethnicty": "peranakan",
+   "Ingredients": "pandan leaves"
+ },
+ {
+   "ID": 281,
+   "Ethnicty": "malay",
+   "Ingredients": "white sugar"
+ },
+ {
+   "ID": 282,
+   "Ethnicty": "malay",
+   "Ingredients": "water"
+ },
+ {
+   "ID": 283,
+   "Ethnicty": "malay",
+   "Ingredients": "mung bean flour"
+ },
+ {
+   "ID": 284,
+   "Ethnicty": "malay",
+   "Ingredients": "canned corn kernels"
+ },
+ {
+   "ID": 285,
+   "Ethnicty": "malay",
+   "Ingredients": "coconut cream"
+ },
+ {
+   "ID": 286,
+   "Ethnicty": "malay",
+   "Ingredients": "salt"
+ },
+ {
+   "ID": 287,
+   "Ethnicty": "malay",
+   "Ingredients": "white sugar"
+ },
+ {
+   "ID": 288,
+   "Ethnicty": "malay",
+   "Ingredients": "water"
+ },
+ {
+   "ID": 289,
+   "Ethnicty": "malay",
+   "Ingredients": "tapioca flour"
+ },
+ {
+   "ID": 290,
+   "Ethnicty": "malay",
+   "Ingredients": "glutinous rice flour"
+ },
+ {
+   "ID": 291,
+   "Ethnicty": "malay",
+   "Ingredients": "grated coconut"
+ },
+ {
+   "ID": 292,
+   "Ethnicty": "malay",
+   "Ingredients": "gula melaka"
+ },
+ {
+   "ID": 293,
+   "Ethnicty": "malay",
+   "Ingredients": "pandan leaves"
+ },
+ {
+   "ID": 294,
+   "Ethnicty": "chinese",
+   "Ingredients": "oil"
+ },
+ {
+   "ID": 295,
+   "Ethnicty": "chinese",
+   "Ingredients": "salt"
+ },
+ {
+   "ID": 296,
+   "Ethnicty": "chinese",
+   "Ingredients": "caster sugar"
+ },
+ {
+   "ID": 297,
+   "Ethnicty": "chinese",
+   "Ingredients": "water"
+ },
+ {
+   "ID": 298,
+   "Ethnicty": "chinese",
+   "Ingredients": "glutinous rice flour"
+ },
+ {
+   "ID": 299,
+   "Ethnicty": "chinese",
+   "Ingredients": "mung bean flour"
+ },
+ {
+   "ID": 300,
+   "Ethnicty": "chinese",
+   "Ingredients": "banana leaves"
+ },
+ {
+   "ID": 301,
+   "Ethnicty": "chinese",
+   "Ingredients": "coconut milk"
+ },
+ {
+   "ID": 302,
+   "Ethnicty": "chinese",
+   "Ingredients": "colouring"
+ },
+ {
+   "ID": 303,
+   "Ethnicty": "chinese",
+   "Ingredients": "pandan leaves"
+ },
+ {
+   "ID": 304,
+   "Ethnicty": "chinese",
+   "Ingredients": "sweet potato"
+ },
+ {
+   "ID": 305,
+   "Ethnicty": "chinese",
+   "Ingredients": "oil"
+ },
+ {
+   "ID": 306,
+   "Ethnicty": "chinese",
+   "Ingredients": "salt"
+ },
+ {
+   "ID": 307,
+   "Ethnicty": "chinese",
+   "Ingredients": "water"
+ },
+ {
+   "ID": 308,
+   "Ethnicty": "chinese",
+   "Ingredients": "rice flour"
+ },
+ {
+   "ID": 309,
+   "Ethnicty": "chinese",
+   "Ingredients": "bamboo shoot"
+ },
+ {
+   "ID": 310,
+   "Ethnicty": "chinese",
+   "Ingredients": "dried shrimps"
+ },
+ {
+   "ID": 311,
+   "Ethnicty": "chinese",
+   "Ingredients": "garlic"
+ },
+ {
+   "ID": 312,
+   "Ethnicty": "chinese",
+   "Ingredients": "white pepper"
+ },
+ {
+   "ID": 313,
+   "Ethnicty": "chinese",
+   "Ingredients": "tumeric"
+ },
+ {
+   "ID": 314,
+   "Ethnicty": "peranakan",
+   "Ingredients": "salt"
+ },
+ {
+   "ID": 315,
+   "Ethnicty": "peranakan",
+   "Ingredients": "white sugar"
+ },
+ {
+   "ID": 316,
+   "Ethnicty": "peranakan",
+   "Ingredients": "tapioca flour"
+ },
+ {
+   "ID": 317,
+   "Ethnicty": "peranakan",
+   "Ingredients": "rice flour"
+ },
+ {
+   "ID": 318,
+   "Ethnicty": "peranakan",
+   "Ingredients": "coconut milk"
+ },
+ {
+   "ID": 319,
+   "Ethnicty": "peranakan",
+   "Ingredients": "colouring"
+ },
+ {
+   "ID": 320,
+   "Ethnicty": "peranakan",
+   "Ingredients": "pandan leaves"
+ },
+ {
+   "ID": 321,
+   "Ethnicty": "malay",
+   "Ingredients": "white sugar"
+ },
+ {
+   "ID": 322,
+   "Ethnicty": "malay",
+   "Ingredients": "water"
+ },
+ {
+   "ID": 323,
+   "Ethnicty": "malay",
+   "Ingredients": "rice flour"
+ },
+ {
+   "ID": 324,
+   "Ethnicty": "malay",
+   "Ingredients": "grated coconut"
+ },
+ {
+   "ID": 325,
+   "Ethnicty": "malay",
+   "Ingredients": "gula melaka"
+ },
+ {
+   "ID": 326,
+   "Ethnicty": "malay",
+   "Ingredients": "pandan leaves"
+ },
+ {
+   "ID": 327,
+   "Ethnicty": "chinese",
+   "Ingredients": "salt"
+ },
+ {
+   "ID": 328,
+   "Ethnicty": "chinese",
+   "Ingredients": "white sugar"
+ },
+ {
+   "ID": 329,
+   "Ethnicty": "chinese",
+   "Ingredients": "water"
+ },
+ {
+   "ID": 330,
+   "Ethnicty": "chinese",
+   "Ingredients": "rice flour"
+ },
+ {
+   "ID": 331,
+   "Ethnicty": "chinese",
+   "Ingredients": "grated coconut"
+ },
+ {
+   "ID": 332,
+   "Ethnicty": "chinese",
+   "Ingredients": "peanut"
+ },
+ {
+   "ID": 333,
+   "Ethnicty": "chinese",
+   "Ingredients": "gula melaka"
+ },
+ {
+   "ID": 334,
+   "Ethnicty": "chinese",
+   "Ingredients": "pandan leaves"
+ },
+ {
+   "ID": 335,
+   "Ethnicty": "chinese",
+   "Ingredients": "salt"
+ },
+ {
+   "ID": 336,
+   "Ethnicty": "chinese",
+   "Ingredients": "egg"
+ },
+ {
+   "ID": 337,
+   "Ethnicty": "chinese",
+   "Ingredients": "caster sugar"
+ },
+ {
+   "ID": 338,
+   "Ethnicty": "chinese",
+   "Ingredients": "self-raising flour"
+ },
+ {
+   "ID": 339,
+   "Ethnicty": "chinese",
+   "Ingredients": "condensed milk"
+ },
+ {
+   "ID": 340,
+   "Ethnicty": "chinese",
+   "Ingredients": "soda"
+ },
+ {
+   "ID": 341,
+   "Ethnicty": "malay",
+   "Ingredients": "salt"
+ },
+ {
+   "ID": 342,
+   "Ethnicty": "malay",
+   "Ingredients": "brown sugar"
+ },
+ {
+   "ID": 343,
+   "Ethnicty": "malay",
+   "Ingredients": "white sugar"
+ },
+ {
+   "ID": 344,
+   "Ethnicty": "malay",
+   "Ingredients": "water"
+ },
+ {
+   "ID": 345,
+   "Ethnicty": "malay",
+   "Ingredients": "glutinous rice flour"
+ },
+ {
+   "ID": 346,
+   "Ethnicty": "malay",
+   "Ingredients": "rice flour"
+ },
+ {
+   "ID": 347,
+   "Ethnicty": "malay",
+   "Ingredients": "grated coconut"
+ },
+ {
+   "ID": 348,
+   "Ethnicty": "malay",
+   "Ingredients": "coconut milk"
+ },
+ {
+   "ID": 349,
+   "Ethnicty": "malay",
+   "Ingredients": "pandan leaves"
+ },
+ {
+   "ID": 350,
+   "Ethnicty": "malay",
+   "Ingredients": "salt"
+ },
+ {
+   "ID": 351,
+   "Ethnicty": "malay",
+   "Ingredients": "egg"
+ },
+ {
+   "ID": 352,
+   "Ethnicty": "malay",
+   "Ingredients": "wheat flour"
+ },
+ {
+   "ID": 353,
+   "Ethnicty": "malay",
+   "Ingredients": "coconut milk"
+ },
+ {
+   "ID": 354,
+   "Ethnicty": "malay",
+   "Ingredients": "pandan leaves"
+ },
+ {
+   "ID": 355,
+   "Ethnicty": "malay",
+   "Ingredients": "sticky rice"
+ },
+ {
+   "ID": 356,
+   "Ethnicty": "indian",
+   "Ingredients": "baking soda"
+ },
+ {
+   "ID": 357,
+   "Ethnicty": "indian",
+   "Ingredients": "ghee"
+ },
+ {
+   "ID": 358,
+   "Ethnicty": "indian",
+   "Ingredients": "white sugar"
+ },
+ {
+   "ID": 359,
+   "Ethnicty": "indian",
+   "Ingredients": "water"
+ },
+ {
+   "ID": 360,
+   "Ethnicty": "indian",
+   "Ingredients": "gram flour"
+ },
+ {
+   "ID": 361,
+   "Ethnicty": "indian",
+   "Ingredients": "white sugar"
+ },
+ {
+   "ID": 362,
+   "Ethnicty": "indian",
+   "Ingredients": "milk"
+ },
+ {
+   "ID": 363,
+   "Ethnicty": "indian",
+   "Ingredients": "baking soda"
+ },
+ {
+   "ID": 364,
+   "Ethnicty": "indian",
+   "Ingredients": "oil"
+ },
+ {
+   "ID": 365,
+   "Ethnicty": "indian",
+   "Ingredients": "ghee"
+ },
+ {
+   "ID": 366,
+   "Ethnicty": "indian",
+   "Ingredients": "white sugar"
+ },
+ {
+   "ID": 367,
+   "Ethnicty": "indian",
+   "Ingredients": "water"
+ },
+ {
+   "ID": 368,
+   "Ethnicty": "indian",
+   "Ingredients": "plain flour"
+ },
+ {
+   "ID": 369,
+   "Ethnicty": "indian",
+   "Ingredients": "cardamom powder"
+ },
+ {
+   "ID": 370,
+   "Ethnicty": "indian",
+   "Ingredients": "colouring"
+ },
+ {
+   "ID": 371,
+   "Ethnicty": "indian",
+   "Ingredients": "corn flour"
+ },
+ {
+   "ID": 372,
+   "Ethnicty": "indian",
+   "Ingredients": "rose essence"
+ },
+ {
+   "ID": 373,
+   "Ethnicty": "indian",
+   "Ingredients": "saffron"
+ },
+ {
+   "ID": 374,
+   "Ethnicty": "indian",
+   "Ingredients": "thickened yogurt (curd)"
+ },
+ {
+   "ID": 375,
+   "Ethnicty": "indian",
+   "Ingredients": "salt"
+ },
+ {
+   "ID": 376,
+   "Ethnicty": "indian",
+   "Ingredients": "chilli"
+ },
+ {
+   "ID": 377,
+   "Ethnicty": "indian",
+   "Ingredients": "gram flour"
+ },
+ {
+   "ID": 378,
+   "Ethnicty": "indian",
+   "Ingredients": "self-raising flour"
+ },
+ {
+   "ID": 379,
+   "Ethnicty": "indian",
+   "Ingredients": "chilli powder"
+ },
+ {
+   "ID": 380,
+   "Ethnicty": "indian",
+   "Ingredients": "garam masala"
+ },
+ {
+   "ID": 381,
+   "Ethnicty": "indian",
+   "Ingredients": "coriander leaves"
+ },
+ {
+   "ID": 382,
+   "Ethnicty": "indian",
+   "Ingredients": "lemon juice"
+ },
+ {
+   "ID": 383,
+   "Ethnicty": "indian",
+   "Ingredients": "onion"
+ },
+ {
+   "ID": 384,
+   "Ethnicty": "indian",
+   "Ingredients": "potato"
+ },
+ {
+   "ID": 385,
+   "Ethnicty": "indian",
+   "Ingredients": "spinach leaves"
+ },
+ {
+   "ID": 386,
+   "Ethnicty": "indian",
+   "Ingredients": "spring onion"
+ },
+ {
+   "ID": 387,
+   "Ethnicty": "indian",
+   "Ingredients": "salt"
+ },
+ {
+   "ID": 388,
+   "Ethnicty": "indian",
+   "Ingredients": "chilli powder"
+ },
+ {
+   "ID": 389,
+   "Ethnicty": "indian",
+   "Ingredients": "mango powder"
+ },
+ {
+   "ID": 390,
+   "Ethnicty": "indian",
+   "Ingredients": "garam masala"
+ },
+ {
+   "ID": 391,
+   "Ethnicty": "indian",
+   "Ingredients": "bread crumbs"
+ },
+ {
+   "ID": 392,
+   "Ethnicty": "indian",
+   "Ingredients": "coriander leaves"
+ },
+ {
+   "ID": 393,
+   "Ethnicty": "indian",
+   "Ingredients": "ginger paste"
+ },
+ {
+   "ID": 394,
+   "Ethnicty": "indian",
+   "Ingredients": "onion"
+ },
+ {
+   "ID": 395,
+   "Ethnicty": "indian",
+   "Ingredients": "paneer"
+ },
+ {
+   "ID": 396,
+   "Ethnicty": "indian",
+   "Ingredients": "potato"
+ },
+ {
+   "ID": 397,
+   "Ethnicty": "indian",
+   "Ingredients": "white sugar"
+ },
+ {
+   "ID": 398,
+   "Ethnicty": "indian",
+   "Ingredients": "milk"
+ },
+ {
+   "ID": 399,
+   "Ethnicty": "indian",
+   "Ingredients": "cardamom"
+ },
+ {
+   "ID": 400,
+   "Ethnicty": "indian",
+   "Ingredients": "mango"
+ },
+ {
+   "ID": 401,
+   "Ethnicty": "indian",
+   "Ingredients": "plain yogurt"
+ },
+ {
+   "ID": 402,
+   "Ethnicty": "indian",
+   "Ingredients": "ghee"
+ },
+ {
+   "ID": 403,
+   "Ethnicty": "indian",
+   "Ingredients": "white sugar"
+ },
+ {
+   "ID": 404,
+   "Ethnicty": "indian",
+   "Ingredients": "water"
+ },
+ {
+   "ID": 405,
+   "Ethnicty": "indian",
+   "Ingredients": "gram flour"
+ },
+ {
+   "ID": 406,
+   "Ethnicty": "indian",
+   "Ingredients": "almonds"
+ },
+ {
+   "ID": 407,
+   "Ethnicty": "indian",
+   "Ingredients": "baking soda"
+ },
+ {
+   "ID": 408,
+   "Ethnicty": "indian",
+   "Ingredients": "oil"
+ },
+ {
+   "ID": 409,
+   "Ethnicty": "indian",
+   "Ingredients": "salt"
+ },
+ {
+   "ID": 410,
+   "Ethnicty": "indian",
+   "Ingredients": "water"
+ },
+ {
+   "ID": 411,
+   "Ethnicty": "indian",
+   "Ingredients": "plain flour"
+ },
+ {
+   "ID": 412,
+   "Ethnicty": "indian",
+   "Ingredients": "milk powder"
+ },
+ {
+   "ID": 413,
+   "Ethnicty": "indian",
+   "Ingredients": "cardomom"
+ },
+ {
+   "ID": 414,
+   "Ethnicty": "indian",
+   "Ingredients": "pistachios"
+ },
+ {
+   "ID": 415,
+   "Ethnicty": "indian",
+   "Ingredients": "plain yogurt"
+ },
+ {
+   "ID": 416,
+   "Ethnicty": "indian",
+   "Ingredients": "rose essence"
+ },
+ {
+   "ID": 417,
+   "Ethnicty": "indian",
+   "Ingredients": "saffron"
+ },
+ {
+   "ID": 418,
+   "Ethnicty": "indian",
+   "Ingredients": "ghee"
+ },
+ {
+   "ID": 419,
+   "Ethnicty": "indian",
+   "Ingredients": "cardamom powder"
+ },
+ {
+   "ID": 420,
+   "Ethnicty": "indian",
+   "Ingredients": "ginger"
+ },
+ {
+   "ID": 421,
+   "Ethnicty": "indian",
+   "Ingredients": "jaggery"
+ },
+ {
+   "ID": 422,
+   "Ethnicty": "indian",
+   "Ingredients": "raw rice"
+ },
+ {
+   "ID": 423,
+   "Ethnicty": "indian",
+   "Ingredients": "sesame seeds"
+ },
+ {
+   "ID": 424,
+   "Ethnicty": "indian",
+   "Ingredients": "salt"
+ },
+ {
+   "ID": 425,
+   "Ethnicty": "indian",
+   "Ingredients": "butter"
+ },
+ {
+   "ID": 426,
+   "Ethnicty": "indian",
+   "Ingredients": "water"
+ },
+ {
+   "ID": 427,
+   "Ethnicty": "indian",
+   "Ingredients": "murukku flour"
+ },
+ {
+   "ID": 428,
+   "Ethnicty": "indian",
+   "Ingredients": "asafoetida powder"
+ },
+ {
+   "ID": 429,
+   "Ethnicty": "indian",
+   "Ingredients": "ajwain"
+ },
+ {
+   "ID": 430,
+   "Ethnicty": "indian",
+   "Ingredients": "sesame seeds"
+ },
+ {
+   "ID": 431,
+   "Ethnicty": "indian",
+   "Ingredients": "baking soda"
+ },
+ {
+   "ID": 432,
+   "Ethnicty": "indian",
+   "Ingredients": "ghee"
+ },
+ {
+   "ID": 433,
+   "Ethnicty": "indian",
+   "Ingredients": "gram flour"
+ },
+ {
+   "ID": 434,
+   "Ethnicty": "indian",
+   "Ingredients": "cardamom powder"
+ },
+ {
+   "ID": 435,
+   "Ethnicty": "indian",
+   "Ingredients": "cashew nuts"
+ },
+ {
+   "ID": 436,
+   "Ethnicty": "indian",
+   "Ingredients": "cloves"
+ },
+ {
+   "ID": 437,
+   "Ethnicty": "indian",
+   "Ingredients": "colouring"
+ },
+ {
+   "ID": 438,
+   "Ethnicty": "indian",
+   "Ingredients": "salt"
+ },
+ {
+   "ID": 439,
+   "Ethnicty": "indian",
+   "Ingredients": "water"
+ },
+ {
+   "ID": 440,
+   "Ethnicty": "indian",
+   "Ingredients": "rice flour"
+ },
+ {
+   "ID": 441,
+   "Ethnicty": "indian",
+   "Ingredients": "colouring"
+ },
+ {
+   "ID": 442,
+   "Ethnicty": "indian",
+   "Ingredients": "urad dal"
+ },
+ {
+   "ID": 443,
+   "Ethnicty": "indian",
+   "Ingredients": "oil"
+ },
+ {
+   "ID": 444,
+   "Ethnicty": "indian",
+   "Ingredients": "salt"
+ },
+ {
+   "ID": 445,
+   "Ethnicty": "indian",
+   "Ingredients": "egg white"
+ },
+ {
+   "ID": 446,
+   "Ethnicty": "indian",
+   "Ingredients": "white sugar"
+ },
+ {
+   "ID": 447,
+   "Ethnicty": "indian",
+   "Ingredients": "chilli powder"
+ },
+ {
+   "ID": 448,
+   "Ethnicty": "indian",
+   "Ingredients": "curry powder"
+ },
+ {
+   "ID": 449,
+   "Ethnicty": "indian",
+   "Ingredients": "green peas"
+ },
+ {
+   "ID": 450,
+   "Ethnicty": "indian",
+   "Ingredients": "onion"
+ },
+ {
+   "ID": 451,
+   "Ethnicty": "indian",
+   "Ingredients": "potato"
+ },
+ {
+   "ID": 452,
+   "Ethnicty": "indian",
+   "Ingredients": "spring roll wrappers"
+ },
+ {
+   "ID": 453,
+   "Ethnicty": "indian",
+   "Ingredients": "salt"
+ },
+ {
+   "ID": 454,
+   "Ethnicty": "indian",
+   "Ingredients": "butter"
+ },
+ {
+   "ID": 455,
+   "Ethnicty": "indian",
+   "Ingredients": "chilli"
+ },
+ {
+   "ID": 456,
+   "Ethnicty": "indian",
+   "Ingredients": "rice flour"
+ },
+ {
+   "ID": 457,
+   "Ethnicty": "indian",
+   "Ingredients": "asafoetida powder"
+ },
+ {
+   "ID": 458,
+   "Ethnicty": "indian",
+   "Ingredients": "ginger"
+ },
+ {
+   "ID": 459,
+   "Ethnicty": "indian",
+   "Ingredients": "urad dal"
+ },
+ {
+   "ID": null,
+   "Ethnicty": "",
+   "Ingredients": ""
+ },
+ {
+   "ID": null,
+   "Ethnicty": "",
+   "Ingredients": ""
+ },
+ {
+   "ID": null,
+   "Ethnicty": "",
+   "Ingredients": ""
+ }
+]
